@@ -20,6 +20,10 @@
 - [2.5 — Opérateurs d'assignation](./Cours%2002/2.5%20-%20Opérateurs%20d'assignation.md)
 - [2.6 — Lire une erreur de syntaxe](./Cours%2002/2.6%20-%20Lire%20une%20erreur%20de%20syntaxe.md)
 
+Exercices :
+
+- [Exercices du Cours 02](./Cours%2002/Exercices/README.md) — classés par niveau, avec [corrigés](./Cours%2002/Exercices/Corrige/README.md)
+
 ## Cours 03 — Entrées, sorties et opérateurs logiques
 
 - [3.1 — Entrées en console](./Cours%2003/3.1%20-%20Entrées%20en%20console.md)
@@ -35,10 +39,17 @@
 - [4.4 — L'opérateur ternaire](./Cours%2004/4.4%20-%20L'opérateur%20ternaire.md)
 - [4.5 — Erreurs et bonnes pratiques](./Cours%2004/4.5%20-%20Erreurs%20et%20bonnes%20pratiques.md)
 
+## Cours 05 — Structures itératives `while` et validation de données
+
+- [5.1 — La boucle while](./Cours%2005/5.1%20-%20La%20boucle%20while.md)
+
 ## Outils / Références
 
-- [Raccourcis VS Code](./Outils/Raccourcis%20VS%20Code.md)
+- [Couleurs - Module colorama](./Outils/Couleurs%20-%20Module%20colorama.md)
+- [Date et heure - Module datetime](./Outils/Date%20et%20heure%20-%20Module%20datetime.md)
 - [Manipulations de chaînes](./Outils/Manipulations%20de%20chaînes.md)
+- [Module math](./Outils/Module%20math.md)
+- [Raccourcis VS Code](./Outils/Raccourcis%20VS%20Code.md)
 
 ---
 
